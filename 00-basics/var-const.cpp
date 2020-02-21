@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main(void)
+int main()
 {
   int age = 21;
   int balance = 500;

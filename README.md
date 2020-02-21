@@ -1,3 +1,4 @@
 # 🔥 Revisiting C++ in 2025
 
-- [ ] 00 - Basics
+- [x] 00 - Basics
+- [ ] 01 - Data Types
