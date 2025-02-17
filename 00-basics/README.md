@@ -24,3 +24,29 @@ int main(void) {
   return 0;
 }
 ```
+
+## Variables and Constants
+
+- We use variables and constants to store data in a program.
+- Variable can be first declared, then initialized later or can be declared and initialized in same statement.
+- Values can be modified in later in variables.
+- Constants must be declared and initialized in same statement.
+- Values cannot be modified later in case of constants.
+- We should not use predefined keywords for naming variables and constants and follow the naming conventions.
+  - Identifiers can start with letter or underscore but not with numbers.
+  - We should not use special characters for the identifers.
+  - We should use meaningful names as identifiers.
+
+```c++
+// Variable declaration
+int age;
+
+// Variable initialization
+age = 21;
+
+// Variable declaration and initialization in single line
+int balance = 500;
+
+// Constant
+const int uid = 12345;
+```
